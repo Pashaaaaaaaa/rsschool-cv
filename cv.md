@@ -7,5 +7,7 @@
     </ul>
    <h2> About Me</h2>
   <p><i>Do something with passion or not it all</i></p>
-<h2> Skills</h2>
+<h2>Skills</h2>
   <p><i>Stage 0 RSSCHOOL</i></p>
+<h2>Education</h2>
+  <p><i>Belarusian National Technical University</i></p>
